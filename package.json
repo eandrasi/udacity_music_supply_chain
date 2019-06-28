@@ -4,7 +4,8 @@
   "description": "Music Supply Chain",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,9 @@
     "fs-extra": "^8.0.1",
     "ganache-cli": "^6.4.4",
     "mocha": "^6.1.4",
+    "next": "^4.1.4",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "solc": "^0.5.10",
     "truffle-assertions": "^0.9.1",
     "web3": "^1.0.0-beta.55"
