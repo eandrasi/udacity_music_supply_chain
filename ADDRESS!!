@@ -1,19 +1,16 @@
-0xB854DC87298c4586feDbb079158FB6cA66aA636F
-
-
 
 1_initial_migration.js
 ======================
 
-   Replacing 'Migrations'
+   Deploying 'Migrations'
    ----------------------
-   > transaction hash:    0xb2d6ba08aad1304697edbbe8d18c21b5d7a9d0088751870454384578f326fb2a
+   > transaction hash:    0x467ae9405a621912e9743ff4f678a6091593052d6dbf50f3c7bef33f6336c097
    > Blocks: 0            Seconds: 0
-   > contract address:    0xda09E1656C9164f7ca73E7BC2A9B39176B8C73dE
-   > block number:        903
-   > block timestamp:     1561638416
+   > contract address:    0xCAC3a11fCC64865A9B2e97070775f605ae262E4c
+   > block number:        1175
+   > block timestamp:     1561719324
    > account:             0xE14984088727b1FF2db7Fa42817257bD9766c628
-   > balance:             99990.63894274
+   > balance:             99989.70167202
    > gas used:            261393
    > gas price:           20 gwei
    > value sent:          0 ETH
@@ -29,90 +26,90 @@
 2_deploy_contracts.js
 =====================
 
-   Replacing 'ArtistRole'
+   Deploying 'ArtistRole'
    ----------------------
-   > transaction hash:    0x7ee25bc678d3b41fcc03f57c774ed50de58cdb4812e00ab63ba0bf1f18246efc
+   > transaction hash:    0x94eb1b299f772b0795ee16cc0325d685c70aefa509db836c6b1b22e08fb44340
    > Blocks: 0            Seconds: 0
-   > contract address:    0xF278e7769602e8876B97964aCc54b7f0DF1b6AE3
-   > block number:        905
-   > block timestamp:     1561638417
+   > contract address:    0x1C6aEad361F89cD2Ae404b48Ae71A40ff283326C
+   > block number:        1177
+   > block timestamp:     1561719324
    > account:             0xE14984088727b1FF2db7Fa42817257bD9766c628
-   > balance:             99990.63066744
+   > balance:             99989.69339672
    > gas used:            371742
    > gas price:           20 gwei
    > value sent:          0 ETH
    > total cost:          0.00743484 ETH
 
 
-   Replacing 'ConsumerRole'
+   Deploying 'ConsumerRole'
    ------------------------
-   > transaction hash:    0xded099ed2c108ad7c7d797db2bba2a68a5ee32df68f9765b90352082bd8bc6ab
+   > transaction hash:    0x00ff4a61c569ac02b293b5ecce4dd5d41e684a0fb4f969747dd49192f7659b10
    > Blocks: 0            Seconds: 0
-   > contract address:    0x1c9600733Aaa00961BD4b9031016496f92A44EB8
-   > block number:        906
-   > block timestamp:     1561638417
+   > contract address:    0xA5B23F73D42b357839A2239f4B1B6D7777CE92F1
+   > block number:        1178
+   > block timestamp:     1561719325
    > account:             0xE14984088727b1FF2db7Fa42817257bD9766c628
-   > balance:             99990.62323132
+   > balance:             99989.6859606
    > gas used:            371806
    > gas price:           20 gwei
    > value sent:          0 ETH
    > total cost:          0.00743612 ETH
 
 
-   Replacing 'ProducerRole'
+   Deploying 'ProducerRole'
    ------------------------
-   > transaction hash:    0x4a96f5238c48843a88607b590f0be38ab8b30690299186519a7c302f213cc665
+   > transaction hash:    0x87465fec845cf1b77a2cd8c4985ad4200a43e1a7d3dc61bbe3db54a4ee94fe34
    > Blocks: 0            Seconds: 0
-   > contract address:    0x54b2108eadA13c33A39Eb57d54e5e2dA3234c8ee
-   > block number:        907
-   > block timestamp:     1561638418
+   > contract address:    0xb0E9782E9d6E26B32A35F1D3f54686ffF8Dc81b4
+   > block number:        1179
+   > block timestamp:     1561719325
    > account:             0xE14984088727b1FF2db7Fa42817257bD9766c628
-   > balance:             99990.61579648
+   > balance:             99989.67852576
    > gas used:            371742
    > gas price:           20 gwei
    > value sent:          0 ETH
    > total cost:          0.00743484 ETH
 
 
-   Replacing 'RecordLabelRole'
+   Deploying 'RecordLabelRole'
    ---------------------------
-   > transaction hash:    0x5796791a26ad4d0e9f057c84f970f451172e49f41eaa22b122ea7977f7a6fb7b
+   > transaction hash:    0x5c6920655e1e4d159c02f3d498ac08d8bc675cc13311e12bbc5e01e278c1c234
    > Blocks: 0            Seconds: 0
-   > contract address:    0x60eFE409A749c60FA635A7512F46F1cD73d54421
-   > block number:        908
-   > block timestamp:     1561638418
+   > contract address:    0x147aF3d45CBCFe3fA8311F03821Dee483cD9cfD6
+   > block number:        1180
+   > block timestamp:     1561719326
    > account:             0xE14984088727b1FF2db7Fa42817257bD9766c628
-   > balance:             99990.60836036
+   > balance:             99989.67108964
    > gas used:            371806
    > gas price:           20 gwei
    > value sent:          0 ETH
    > total cost:          0.00743612 ETH
 
 
-   Replacing 'DistributorRole'
+   Deploying 'DistributorRole'
    ---------------------------
-   > transaction hash:    0x90057c68f1b4c904fe8f247309361c602e26f1ac31c12b4b1d84a9052d416b14
+   > transaction hash:    0xdda997e8d7ce4cb9bff76636f982ab9a32b48e241e91d29d9b188616f27f5263
    > Blocks: 0            Seconds: 0
-   > contract address:    0x2e570a38ef8c0cEA9Fb99c40365ae70E0AFc69a2
-   > block number:        909
-   > block timestamp:     1561638418
+   > contract address:    0x6F02EAe0b0800d72b7C94A9f227D7C2385da9E1F
+   > block number:        1181
+   > block timestamp:     1561719326
    > account:             0xE14984088727b1FF2db7Fa42817257bD9766c628
-   > balance:             99990.60092424
+   > balance:             99989.66365352
    > gas used:            371806
    > gas price:           20 gwei
    > value sent:          0 ETH
    > total cost:          0.00743612 ETH
 
 
-   Replacing 'SupplyChain'
+   Deploying 'SupplyChain'
    -----------------------
-   > transaction hash:    0x0811a778acdcbb55b1f9345b98caaae7c371c1b3a7c0aaf395a3c98f7d115cc1
+   > transaction hash:    0xa0781bfc4668a1fd8b8cca6579955df873b6ce97bdabe54e989dff77954dd7eb
    > Blocks: 0            Seconds: 0
-   > contract address:    0xB854DC87298c4586feDbb079158FB6cA66aA636F
-   > block number:        910
-   > block timestamp:     1561638419
+   > contract address:    0xe22478c96B3Cd50F01017E65364105F251417d67
+   > block number:        1182
+   > block timestamp:     1561719326
    > account:             0xE14984088727b1FF2db7Fa42817257bD9766c628
-   > balance:             99990.53881852
+   > balance:             99989.6015478
    > gas used:            3105286
    > gas price:           20 gwei
    > value sent:          0 ETH

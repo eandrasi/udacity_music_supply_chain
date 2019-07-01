@@ -1,5 +1,15 @@
-import React from 'react'
+import React, { Component } from 'react'
+import supplychain from '../ethereum/supplychain'
 
-export default () => {
-    return <h1>Here I will display a list of albums</h1>
+class SupChain extends Component {
+    async componentDidMount() {
+        let a = await supplychain.methods.upc.call();
+        console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+    }
+
+    render() {
+        return <div>Hellloo</div>
+    }
 }
+
+export default SupChain
