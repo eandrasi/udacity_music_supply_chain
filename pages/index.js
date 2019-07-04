@@ -4,7 +4,8 @@ import supplychain from '../ethereum/supplychain'
 class SupChain extends Component {
     async componentDidMount() {
         let a = await supplychain.methods.upc.call();
-        console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+        // console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa")
+        // console.log(a)
     }
 
     render() {

@@ -69,9 +69,7 @@ var SupChain = function (_Component) {
                             case 2:
                                 a = _context.sent;
 
-                                console.log("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-
-                            case 4:
+                            case 3:
                             case 'end':
                                 return _context.stop();
                         }
@@ -91,7 +89,7 @@ var SupChain = function (_Component) {
             return _react2.default.createElement('div', {
                 __source: {
                     fileName: _jsxFileName,
-                    lineNumber: 11
+                    lineNumber: 12
                 }
             }, 'Hellloo');
         }
@@ -101,4 +99,4 @@ var SupChain = function (_Component) {
 }(_react.Component);
 
 exports.default = SupChain;
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbIlJlYWN0IiwiQ29tcG9uZW50Iiwic3VwcGx5Y2hhaW4iLCJTdXBDaGFpbiIsIm1ldGhvZHMiLCJ1cGMiLCJjYWxsIiwiYSIsImNvbnNvbGUiLCJsb2ciXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBQSxBQUFPLEFBQVM7Ozs7QUFDaEIsQUFBTyxBQUFpQjs7Ozs7Ozs7O0ksQUFFbEI7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7dUNBRWdCLHNCQUFBLEFBQVksUUFBWixBQUFvQixJLEFBQXBCLEFBQXdCOztpQ0FBbEM7QSw2Q0FDSjs7d0NBQUEsQUFBUSxJQUFSLEFBQVk7Ozs7Ozs7Ozs7Ozs7Ozs7OztpQ0FHUCxBQUNMO21DQUFPLGNBQUE7OzhCQUFBO2dDQUFBO0FBQUE7QUFBQSxhQUFBLEVBQVAsQUFBTyxBQUNWOzs7OztBQUdMLEEsQUFYdUI7O2tCQVd2QixBQUFlIiwiZmlsZSI6ImluZGV4LmpzP2VudHJ5Iiwic291cmNlUm9vdCI6Ii9Vc2Vycy9lZHkvRGVza3RvcC9VZGFjaXR5L3VkYWNpdHlfbXVzaWNfc3VwcGx5X2NoYWluIn0=
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInBhZ2VzL2luZGV4LmpzIl0sIm5hbWVzIjpbIlJlYWN0IiwiQ29tcG9uZW50Iiwic3VwcGx5Y2hhaW4iLCJTdXBDaGFpbiIsIm1ldGhvZHMiLCJ1cGMiLCJjYWxsIiwiYSJdLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUFBLEFBQU8sQUFBUzs7OztBQUNoQixBQUFPLEFBQWlCOzs7Ozs7Ozs7SSxBQUVsQjs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozt1Q0FFZ0Isc0JBQUEsQUFBWSxRQUFaLEFBQW9CLEksQUFBcEIsQUFBd0I7O2lDQUFsQztBOzs7Ozs7Ozs7Ozs7Ozs7Ozs7aUNBS0MsQUFDTDttQ0FBTyxjQUFBOzs4QkFBQTtnQ0FBQTtBQUFBO0FBQUEsYUFBQSxFQUFQLEFBQU8sQUFDVjs7Ozs7QUFHTCxBLEFBWnVCOztrQkFZdkIsQUFBZSIsImZpbGUiOiJpbmRleC5qcz9lbnRyeSIsInNvdXJjZVJvb3QiOiIvVXNlcnMvZWR5L0Rlc2t0b3AvVWRhY2l0eS91ZGFjaXR5X211c2ljX3N1cHBseV9jaGFpbiJ9
