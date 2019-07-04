@@ -137,6 +137,14 @@ contract SupplyChain is AccessControl, Ownable {
     upc = 1;
   }
 
+  function ret5() public returns (uint five) {
+    five = 5;
+  }
+
+  function multi2(uint no) public returns (uint _no) {
+    _no = no * 2;
+  }
+
   // Define a function 'kill' if required
   function kill() public {
     if (msg.sender == owner()) {
